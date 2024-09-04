@@ -1,0 +1,16 @@
+{
+  "name": "exercicio_cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^13.14.1"
+  },
+  "scripts": {
+    "cypress": "cypress",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
